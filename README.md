@@ -2,4 +2,4 @@
 
 Categorize by folders  
 in Python  
-Categories of files
+Categories of files by extensions
